@@ -15,7 +15,7 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: navi.zlcom.pp.ua # unique identifier
+  - id: workers-cloudflare-com # unique identifier
     name: navi.zlcom.pp.ua
     description: 'HZ的路标，在这里找寻前进之路' # default=empty
     url: 'https://navi.zlcom.pp.ua/' # URL to fetch
